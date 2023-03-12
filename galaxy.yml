@@ -1,0 +1,17 @@
+namespace: serialt
+name: ansible-roles
+version: 1.4.1
+readme: README.md
+authors:
+  - Serialt tserialt@gmail.com
+description: "ansible role collection"
+tags:
+  - go
+  - docker
+  - repo
+  - chrony
+dependencies: {}
+repository: https://github.com/serialt/ansible-roles
+documentation: https://github.com/serialt/ansible-roles/README.md
+license:
+    - "MIT"
